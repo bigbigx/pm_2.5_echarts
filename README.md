@@ -15,3 +15,6 @@
 + <a href="https://github.com/cheeriojs/cheerio">cheerio</a>
 + <a href="https://github.com/request/request">request</a>
 + <a href="https://github.com/ecomfe/echarts">echarts</a>
+
+## 工程结构：
+![](./example/structure.png)
