@@ -12,6 +12,6 @@
 3. 点击index.html即可得到数据可视化展示
 
 ## 模块需求：
-+ cheerio
-+ request
-+ echarts [The link](https://github.com/ecomfe/echarts)
++ <a href="https://github.com/cheeriojs/cheerio">cheerio</a>
++ <a href="https://github.com/request/request">request</a>
++ <a href="https://github.com/ecomfe/echarts">echarts</a>
