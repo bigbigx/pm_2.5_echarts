@@ -11,10 +11,5 @@
 2. 下载项目后，在解压后的项目根目录执行 npm install 完成库的安装
 3. 点击index.html即可得到数据可视化展示
 
-## 模块需求：
-+ <a href="https://github.com/cheeriojs/cheerio">cheerio</a>
-+ <a href="https://github.com/request/request">request</a>
-+ <a href="https://github.com/ecomfe/echarts">echarts</a>
-
 ## 工程结构：
 ![](./example/structure.png)
