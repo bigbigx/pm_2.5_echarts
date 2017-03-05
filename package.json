@@ -1,0 +1,32 @@
+{
+  "name": "pm_2.5",
+  "version": "1.0.0",
+  "description": "pm2.5",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "echarts": "^3.4.0",
+    "fs": "0.0.1-security",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miniroadrunner/pm_2.5_echarts.git"
+  },
+  "keywords": [
+    "pm2.5",
+    "node.js",
+    "crawler",
+    "echarts"
+  ],
+  "author": "mrr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miniroadrunner/pm_2.5_echarts/issues"
+  },
+  "homepage": "https://github.com/miniroadrunner/pm_2.5_echarts#readme"
+}
